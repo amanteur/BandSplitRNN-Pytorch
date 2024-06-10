@@ -1,5 +1,7 @@
 # BandSplitRNN Pytorch
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/piwawa/BandSplitRNN-PyTorch/blob/main/BandSplitRNN_colab.ipynb)
+
 Unofficial PyTorch implementation of the paper [Music Source Separation with Band-split RNN](https://arxiv.org/pdf/2209.15174.pdf).
 
 ![architecture](images/architecture.png)
